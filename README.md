@@ -3,7 +3,7 @@
 
 ### Inicialização
 
-1. Ao iniciar o programa, as planilhas serão criadas automaticamente na pasta `C:\Users\uemot\Desktop\ControleEstoque\planilhas`.
+1. Ao iniciar o programa, as planilhas serão criadas automaticamente na pasta desejada.
 
 ### Interface Principal
 
@@ -14,6 +14,7 @@ Na interface principal, você encontrará os seguintes botões:
 - **Carga para Loja**: Mover itens do estoque para a loja Brooklin ou Eucaliptos, especificando a quantidade.
 - **Checar Validade**: Checar a validade dos produtos nos próximos 30 dias para o estoque, Brooklin e Eucaliptos.
 - **Sair**: Fechar o programa.
+- **Como Usar?**: Leva ao guia de uso no link fornecido.
 
 ### Adicionar Nova Carga
 
@@ -33,17 +34,4 @@ Na interface principal, você encontrará os seguintes botões:
 ### Checar Validade
 
 1. Clique em "Checar Validade".
-2. Será gerado um arquivo `itens_vencendo.xlsx` com três abas, analisando a validade dos produtos no estoque, Brooklin e Eucaliptos.
-3. Clique em "Voltar" para retornar à interface principal.
-
-### Fazer Inventário
-
-1. Clique em "Fazer Inventário".
-2. Preencha os campos para adicionar produtos temporariamente.
-3. Clique em "Adicionar Outro Produto" para adicionar mais produtos.
-4. Clique em "Finalizar" para substituir a planilha existente com os novos dados.
-5. Clique em "Voltar" para retornar à interface principal.
-
-### Sair
-
-1. Clique em "Sair" para fechar o programa.
+2. Será gerado um arquivo `itens_vencendo.xlsx` com três abas, analisando a validade dos produtos no estoque, Brooklin e Eucaliptos
